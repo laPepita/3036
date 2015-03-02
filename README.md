@@ -1,0 +1,2 @@
+# CompSciProjSemOne
+Pattern Recognition
